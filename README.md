@@ -3,7 +3,9 @@
 ![](flag.jpg)
 ![](sign.jpg)
 
-# [TRASH MAGIC SERVER](https://github.com/lafelabs/TRASH-MAGIC-SERVER)
+# [WEB NOT BOMBS](https://github.com/lafelabs/WEB-NOT-BOMBS/)
+# FREE WEB SERVERS IN THE PARK!
+# SELF-REPLICATING MEDIA MADE FROM TRASH!
 
  - [http://localhost/TRASH-MAGIC-SERVER/](http://localhost/TRASH-MAGIC-SERVER/)
  - [https://trashrobot.net/TRASH-MAGIC-SERVER/](https://trashrobot.net/TRASH-MAGIC-SERVER/)
